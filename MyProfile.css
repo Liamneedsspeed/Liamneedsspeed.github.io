@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+html,body{
+    font-family:"Roboto", sans-serif;
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(Bilder/firewatchhtml.jpg)
+}
+/*css kommentar*/
+
+
+#div_link{
+    
+}
+li,a{
+    
+    display: inline;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+nav{
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+    
+}
+.Fotogalerie{
+    width: 65%;
+}
+
+h2{
+    text-align: center;
+    color:whitesmoke
+}
+p{
+    color: whitesmoke;
+    font-size: 25px;
+    text-align: center;
+}
+li{
+    font-size: 30px;
+    padding: 80px;
+}
+
+}
